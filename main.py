@@ -4,7 +4,7 @@ import requests
 
 print('-----------------------------------------------------------------------------------------')
 print('Hi there! We will check whether your password has been pwned using haveibeenpwned.com API')
-print('Don\'t worry, we won\'t store or send your plaintext password somewhere!')
+print('Don\'t worry, we won\'t store or send your plaintext password anywhere!')
 print('Rather we will send the first 5 character sha-1 hash of it and compare '
       'the remaining\npart with results obtained')
 print('-----------------------------------------------------------------------------------------')
