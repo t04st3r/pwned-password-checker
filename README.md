@@ -20,5 +20,5 @@ $ git clone https://github.com/t04st3r/pwned-password-checker.git
 launch the script
 
 ```
-$ python3 main.py
+$ python3 pwned-password-checker/main.py
 ```
